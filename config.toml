@@ -1,6 +1,6 @@
 baseURL = 'https://fulkwest.pages.dev/'
 languageCode = 'en-us'
-title = 'fulkwest'
+title = 'Fulkwest'
 theme = 'PaperMod'
 paginate = "10"
 
